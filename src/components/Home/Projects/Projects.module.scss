@@ -1,0 +1,27 @@
+.main {
+  margin: 50px 0;
+}
+.name {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  h3 {
+    font-size: 25px;
+    font-weight: 300;
+  }
+}
+.left {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  div {
+    height: 1px;
+    width: 300px;
+    background-color: #ff33cc;
+  }
+}
+.content {
+  margin: 30px 0;
+  display: flex;
+  justify-content: space-between;
+}

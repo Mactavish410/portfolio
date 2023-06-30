@@ -1,0 +1,43 @@
+.main {
+  margin: 50px 0;
+}
+.name {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  h3 {
+    font-size: 25px;
+    font-weight: 300;
+  }
+  div {
+    height: 1px;
+    width: 300px;
+    background-color: #ff33cc;
+  }
+}
+.content {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+}
+.left {
+  margin: 20px 0;
+  width: 50%;
+  height: 100%;
+  letter-spacing: 1px;
+  line-height: 1.5;
+  p {
+    margin: 20px 0;
+    color: #abb2bf;
+  }
+  a {
+    margin-top: 100px;
+    padding: 10px;
+    border: 1px solid #ff33cc;
+  }
+}
+.right {
+  position: absolute;
+  right: 10%;
+  top: -20%;
+}

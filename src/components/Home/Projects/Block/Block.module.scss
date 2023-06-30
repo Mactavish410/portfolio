@@ -1,0 +1,26 @@
+.block {
+  border: 1px solid #abb2bf;
+  img {
+    width: 330.579px;
+    height: 201px;
+  }
+  .languages {
+    margin-top: -5px;
+    padding: 3px;
+    border-top: 1px solid #abb2bf;
+    border-bottom: 1px solid #abb2bf;
+  }
+  div {
+    margin-bottom: 10px;
+    padding: 10px;
+    p {
+      margin: 5px 0 15px;
+      color: #abb2bf;
+    }
+    a {
+      padding: 5px 15px 5px 15px;
+      border: 1px solid #ff33cc;
+      margin-bottom: 10px;
+    }
+  }
+}

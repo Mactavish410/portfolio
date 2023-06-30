@@ -1,0 +1,58 @@
+.main {
+  margin: 60px 0;
+}
+.info {
+  display: flex;
+  justify-content: space-between;
+}
+.left {
+  width: 500px;
+  padding: 50px 0;
+  h1 {
+  }
+  p {
+    color: #abb2bf;
+    margin: 32px 0 24px;
+  }
+  a {
+    padding: 8px 16px;
+    display: inline-flex;
+    border: 1px solid #ff33cc;
+  }
+}
+.right {
+  position: relative;
+  svg {
+    position: absolute;
+    top: 1%;
+    left: 1%;
+  }
+  img {
+  }
+  .work {
+    width: 320px;
+    margin: 0 auto;
+    padding: 5px;
+    margin-top: -5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    border: 1px solid #abb2bf;
+    .chekbox {
+      width: 13px;
+      height: 13px;
+      border: 1px solid #ff33cc;
+    }
+    p {
+      color: #abb2bf;
+    }
+  }
+}
+.quote {
+  padding: 15px;
+  width: 700px;
+  text-align: center;
+  margin: 70px auto;
+  border: 1px solid #fff;
+}

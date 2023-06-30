@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "title": "Языки",
+    "info": "JavaScript Python"
+  },
+  {
+    "id": "2",
+    "title": "Остальное",
+    "info": "HTML CSS SASS SCSS Less EJS"
+  },
+  {
+    "id": "3",
+    "title": "Базы данных",
+    "info": "MongoDB"
+  },
+  {
+    "id": "4",
+    "title": "Библиотеки",
+    "info": "React Next Gulp"
+  }
+]

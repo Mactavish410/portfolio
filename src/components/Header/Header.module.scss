@@ -1,0 +1,22 @@
+.main {
+  width: 1024px;
+  margin: 0 auto;
+  font-size: 20px;
+  font-family: Fira Code;
+  font-weight: 500;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.left {
+  display: flex;
+  gap: 8px;
+}
+.right {
+  display: flex;
+  ul {
+    display: flex;
+    gap: 32px;
+  }
+}
